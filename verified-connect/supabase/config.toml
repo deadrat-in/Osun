@@ -1,0 +1,7 @@
+[setup]
+db_host = "db.bbfrljayzlmtjdncfrak.supabase.co"
+db_port = 5432
+db_user = "postgres"
+db_pass = ""
+db_schema = "public"
+db_local_port = 5432
